@@ -1,3 +1,3 @@
-|     acquisition  |     backup  |    download |    preview |
+|     - acquisition  |     - backup  |   - download |      preview |
 |         :-----        |     :---        |        :---     |      :---      |
-| **upload**  |  **query**  | **trajectory**  |   **data analysis** |     
+| **upload**  |  **query**  | - **trajectory**  |   **data analysis** |     
